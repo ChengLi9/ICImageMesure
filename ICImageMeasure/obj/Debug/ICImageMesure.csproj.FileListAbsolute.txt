@@ -1,0 +1,29 @@
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\Debug\ICImageMesure.exe.config
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\Debug\ICImageMesure.exe
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\Debug\ICImageMesure.pdb
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\Debug\Emgu.CV.UI.dll
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\Debug\Emgu.CV.World.dll
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\Debug\ZedGraph.dll
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\Debug\Emgu.CV.UI.xml
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\Debug\Emgu.CV.World.xml
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.csprojResolveAssemblyReference.cache
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.Form1.resources
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.Properties.Resources.resources
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.csproj.GenerateResource.Cache
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.exe
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.pdb
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\Debug\TIS.Imaging.ICImagingControl34.dll
+D:\ICImageMesure\ICImageMesure\bin\Debug\ICImageMesure.exe.config
+D:\ICImageMesure\ICImageMesure\bin\Debug\ICImageMesure.exe
+D:\ICImageMesure\ICImageMesure\bin\Debug\ICImageMesure.pdb
+D:\ICImageMesure\ICImageMesure\bin\Debug\TIS.Imaging.ICImagingControl34.dll
+D:\ICImageMesure\ICImageMesure\bin\Debug\ZedGraph.dll
+D:\ICImageMesure\ICImageMesure\bin\Debug\Emgu.CV.UI.xml
+D:\ICImageMesure\ICImageMesure\bin\Debug\Emgu.CV.World.xml
+D:\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.csprojResolveAssemblyReference.cache
+D:\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.Form1.resources
+D:\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.SaveVideoForm.resources
+D:\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.Properties.Resources.resources
+D:\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.csproj.GenerateResource.Cache
+D:\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.exe
+D:\ICImageMesure\ICImageMesure\obj\Debug\ICImageMesure.pdb

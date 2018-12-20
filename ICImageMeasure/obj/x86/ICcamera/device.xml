@@ -1,0 +1,43 @@
+<device_state libver="3.4" filemajor="1" fileminor="0">
+    <device name="HD WebCam" base_name="HD WebCam">
+        <videoformat>YUY2 (640x480)</videoformat>
+        <fps>30.000030000030001531</fps>
+        <vcdpropertyitems>
+            <item guid="{284C0E06-010B-45BF-8291-09D90A459B28}" name="Brightness">
+                <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                    <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="0" />
+                </element>
+            </item>
+            <item guid="{284C0E07-010B-45BF-8291-09D90A459B28}" name="Contrast">
+                <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                    <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="0" />
+                </element>
+            </item>
+            <item guid="{284C0E08-010B-45BF-8291-09D90A459B28}" name="Hue">
+                <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                    <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="0" />
+                </element>
+            </item>
+            <item guid="{284C0E09-010B-45BF-8291-09D90A459B28}" name="Saturation">
+                <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                    <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="64" />
+                </element>
+            </item>
+            <item guid="{284C0E0A-010B-45BF-8291-09D90A459B28}" name="Sharpness">
+                <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                    <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="2" />
+                </element>
+            </item>
+            <item guid="{284C0E0B-010B-45BF-8291-09D90A459B28}" name="Gamma">
+                <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                    <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="100" />
+                </element>
+            </item>
+            <item guid="{284C0E0E-010B-45BF-8291-09D90A459B28}" name="Backlight Compensation">
+                <element guid="{B57D3000-0AC6-4819-A609-272A33140ACA}" name="Value">
+                    <itf guid="{99B44940-BFE1-4083-ADA1-BE703F4B8E03}" value="0" />
+                </element>
+            </item>
+        </vcdpropertyitems>
+    </device>
+</device_state>

@@ -1,0 +1,16 @@
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\x86\Debug\ICImageMesure.exe.config
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\x86\Debug\ICImageMesure.exe
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\x86\Debug\ICImageMesure.pdb
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\x86\Debug\Emgu.CV.UI.dll
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\x86\Debug\Emgu.CV.World.dll
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\x86\Debug\TIS.Imaging.ICImagingControl34.dll
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\x86\Debug\ZedGraph.dll
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\x86\Debug\Emgu.CV.UI.xml
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\bin\x86\Debug\Emgu.CV.World.xml
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\x86\Debug\ICImageMesure.Form1.resources
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\x86\Debug\ICImageMesure.Properties.Resources.resources
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\x86\Debug\ICImageMesure.csproj.GenerateResource.Cache
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\x86\Debug\ICImageMesure.exe
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\x86\Debug\ICImageMesure.pdb
+c:\users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\x86\Debug\ICImageMesure.csprojResolveAssemblyReference.cache
+C:\Users\yaogu\documents\visual studio 2017\Projects\ICImageMesure\ICImageMesure\obj\x86\Debug\ICImageMesure.SaveVideoForm.resources
